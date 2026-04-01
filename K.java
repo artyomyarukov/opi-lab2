@@ -11,4 +11,8 @@ public class K {
     public long dd() {
         return 99999;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
