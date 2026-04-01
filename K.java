@@ -27,4 +27,8 @@ public class K {
     public void ab() {
         return;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
