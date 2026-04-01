@@ -1,4 +1,4 @@
-public class K {
+public class K extends null {
 
     private String i = "hello";
 
@@ -10,6 +10,10 @@ public class K {
 
     public long dd() {
         return 99999;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
     }
 
     public java.util.Random mm() {
@@ -28,7 +32,19 @@ public class K {
         return;
     }
 
-    public java.util.Set<Integer> ll() {
-        return new java.util.HashSet<Integer>;
+    public int af() {
+        return -1;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public int cc() {
+        return 42;
     }
 }
