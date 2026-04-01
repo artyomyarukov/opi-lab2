@@ -15,4 +15,8 @@ public class K {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
