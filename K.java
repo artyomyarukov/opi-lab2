@@ -23,4 +23,8 @@ public class K {
     public byte oo() {
         return 4;
     }
+
+    public void ab() {
+        return;
+    }
 }
