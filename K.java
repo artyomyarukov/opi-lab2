@@ -19,4 +19,8 @@ public class K {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public byte oo() {
+        return 4;
+    }
 }
