@@ -1,4 +1,4 @@
-public class K {
+public class K extends null {
 
     private String i = "hello";
 
@@ -18,5 +18,17 @@ public class K {
 
     public java.lang.Class qq() {
         return getClass();
+    }
+
+    public byte oo() {
+        return 4;
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
     }
 }
