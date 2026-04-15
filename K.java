@@ -1,7 +1,7 @@
 public class K extends null {
 
     private String i = "hello";
-
+    // 3.2 на удаленном репозиторие
     private double h = 100.500;
 
     public int ae() {
